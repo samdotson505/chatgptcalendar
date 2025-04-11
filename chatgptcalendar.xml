@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>ChatGPT Synced To-Do Calendar</title>
+    <description>Auto-generated events from ChatGPT task list</description>
+    <link>https://github.com/samdotson505/chatgptcalendar</link>
+    <item>
+      <title>Write up student</title>
+      <description>Auto-added task: Write up student</description>
+      <pubDate>2025-04-10T08:00:00</pubDate>
+      <guid>Write up student_2025-04-10T08:00:00</guid>
+    </item>
+    <item>
+      <title>Call Skip</title>
+      <description>Auto-added task: Call Skip</description>
+      <pubDate>2025-04-11T10:00:00</pubDate>
+      <guid>Call Skip_2025-04-11T10:00:00</guid>
+    </item>
+    <item>
+      <title>Clean the floors</title>
+      <description>Auto-added task: Clean the floors</description>
+      <pubDate>2025-04-12T17:00:00</pubDate>
+      <guid>Clean the floors_2025-04-12T17:00:00</guid>
+    </item>
+    <item>
+      <title>Pack for trip</title>
+      <description>Auto-added task: Pack for trip</description>
+      <pubDate>2025-04-14T18:00:00</pubDate>
+      <guid>Pack for trip_2025-04-14T18:00:00</guid>
+    </item>
+    <item>
+      <title>Make extra BandMan37 reels</title>
+      <description>Auto-added task: Make extra BandMan37 reels</description>
+      <pubDate>2025-04-14T20:00:00</pubDate>
+      <guid>Make extra BandMan37 reels_2025-04-14T20:00:00</guid>
+    </item>
+    <item>
+      <title>Message Skip</title>
+      <description>Auto-added task: Message Skip</description>
+      <pubDate>2025-04-13T15:00:00</pubDate>
+      <guid>Message Skip_2025-04-13T15:00:00</guid>
+    </item>
+    <item>
+      <title>Update to-do list and prep for spring concert</title>
+      <description>Auto-added task: Update to-do list and prep for spring concert</description>
+      <pubDate>2025-04-17T10:00:00</pubDate>
+      <guid>Update to-do list and prep for spring concert_2025-04-17T10:00:00</guid>
+    </item>
+    <item>
+      <title>Practice guitar for church</title>
+      <description>Auto-added task: Practice guitar for church</description>
+      <pubDate>2025-04-13T19:00:00</pubDate>
+      <guid>Practice guitar for church_2025-04-13T19:00:00</guid>
+    </item>
+  </channel>
+</rss>
